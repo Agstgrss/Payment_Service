@@ -10,6 +10,7 @@ Valor do contrato: **600.00**
 Parcelas: **3**
 
 output:
+
 25/04/2024 
 **206,04**
 
